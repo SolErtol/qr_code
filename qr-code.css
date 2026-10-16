@@ -48,3 +48,7 @@ body {
     text-align: center;
     padding: 10px;
 }
+
+.qr_text p {
+    font-weight: 200;
+}
